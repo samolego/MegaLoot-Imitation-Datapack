@@ -1,10 +1,11 @@
 # MegaLoot-Imitation-Datapack
 Datapack for Minecraft JE 1.14, that tries to imitate Megaloot mod
 
-I'm not affiliated with the megaloot mod in any way. (!)
-
-This datapack for Minecraft Java Edition tries to imitate the megaloot mod, that was created by Zairus.
+This datapack for Minecraft Java Edition tries to imitate the Megaloot mod, that was created by Zairus.
 (link to his awesome project: https://github.com/Zairus/MegaLoot)
+I'm not affiliated with the Megaloot mod in any way. (!)
+
+Note: this is still WIP
 
 It is my first datapack, so there may be better ways to do the stuff that I'm doing :-P.
 
