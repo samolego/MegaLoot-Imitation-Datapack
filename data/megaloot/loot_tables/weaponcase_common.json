@@ -1,0 +1,64 @@
+{
+    "pools":[
+        {
+            "rolls":1,
+            "entries":[
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                    {
+                        "function":"set_nbt",
+                        "tag":"{display:{Name:\"{\\\"text\\\":\\\"Common Weapon Case\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":true}\",Lore:[\"{\\\"text\\\":\\\"Right click to open.\\\",\\\"color\\\":\\\"dark_aqua\\\",\\\"italic\\\":true}\"]},CustomModelData:1,Enchantments:[{id:\"minecraft:vanishing_curse\",lvl:1s}],EntityTag:{id:\"minecraft:item\",Glowing:1b,PickupDelay:60,Item:{id:\"minecraft:iron_pickaxe\",Count:1b,tag:{display:{Name:\"{\\\"text\\\":\\\"Sharp Tool\\\",\\\"color\\\":\\\"green\\\"}\"},Unbreakable:0b,CustomModelData:1,Enchantments:[{id:\"minecraft:efficiency\",lvl:4s},{id:\"minecraft:silk_touch\",lvl:1s}]}}}}"
+                    }
+                    ],
+                    "name": "minecraft:vex_spawn_egg"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                    {
+                        "function":"set_nbt",
+                        "tag":"{display:{Name:\"{\\\"text\\\":\\\"Common Weapon Case\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":true}\",Lore:[\"{\\\"text\\\":\\\"Right click to open.\\\",\\\"color\\\":\\\"dark_aqua\\\",\\\"italic\\\":true}\"]},CustomModelData:1,Enchantments:[{id:\"minecraft:vanishing_curse\",lvl:1s}],EntityTag:{id:\"minecraft:item\",Glowing:1b,PickupDelay:60,Item:{id:\"minecraft:iron_pickaxe\",Count:1b,tag:{display:{Name:\"{\\\"text\\\":\\\"Rocket Science\\\",\\\"color\\\":\\\"green\\\"}\"},CustomModelData:4,Enchantments:[{id:\"minecraft:efficiency\",lvl:4s},{id:\"minecraft:fortune\",lvl:3s}]}}}}"
+                    }
+                    ],
+                    "name": "minecraft:vex_spawn_egg"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                    {
+                        "function":"set_nbt",
+                        "tag":"{display:{Name:\"{\\\"text\\\":\\\"Common Weapon Case\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":true}\",Lore:[\"{\\\"text\\\":\\\"Right click to open.\\\",\\\"color\\\":\\\"dark_aqua\\\",\\\"italic\\\":true}\"]},CustomModelData:1,Enchantments:[{id:\"minecraft:vanishing_curse\",lvl:1s}],EntityTag:{id:\"minecraft:item\",Glowing:1b,PickupDelay:60,Item:{id:\"minecraft:iron_pickaxe\",Count:1b,tag:{display:{Name:\"{\\\"text\\\":\\\"Sweet Present\\\",\\\"color\\\":\\\"green\\\"}\"},CustomModelData:7,Enchantments:[{id:\"minecraft:efficiency\",lvl:4s},{id:\"minecraft:unbreaking\",lvl:3s}]}}}}"
+                    }
+                    ],
+                    "name": "minecraft:vex_spawn_egg"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                    {
+                        "function":"set_nbt",
+                        "tag":""
+                    }
+                    ],
+                    "name": "minecraft:vex_spawn_egg"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                    {
+                        "function":"set_nbt",
+                        "tag":""
+                    }
+                    ],
+                    "name": "minecraft:vex_spawn_egg"
+                }
+            ]
+        }
+    ]
+}
