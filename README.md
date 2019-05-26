@@ -8,5 +8,7 @@ This datapack for Minecraft Java Edition tries to imitate the megaloot mod, that
 
 It is my first datapack, so there may be better ways to do the stuff that I'm doing :-P.
 
+Big thanks to MCStacker, the awesome command generator - https://mcstacker.net
+
 Since I don't have the perms to use the textures of megaloot mod, you'll have to
 bake them up yourself.
