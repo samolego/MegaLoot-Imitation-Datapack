@@ -1,0 +1,279 @@
+{
+    "pools":[
+        {
+            "rolls":1,
+            "entries":[
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:efficiency\",lvl:8s},{id:\"minecraft:silk_touch\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:3}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Fast Breaker",
+                                    "color":"gold",
+                                    "bold":"true"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_pickaxe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:fortune\",lvl:3s},{id:\"minecraft:mending\",lvl:2s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:16}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Stone Destroyer",
+                                    "color":"gold",
+                                    "bold":"true"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_pickaxe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:fortune\",lvl:3s},{id:\"minecraft:mending\",lvl:2s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:16}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Stone Destroyer",
+                                    "color":"gold",
+                                    "bold":"true"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_pickaxe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:silk_touch\",lvl:1s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:14}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Stone Destroyer",
+                                    "color":"gold",
+                                    "bold":"true"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_pickaxe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:silk_touch\",lvl:1s},{id:\"minecraft:unbreaking\",lvl:4s},{id:\"minecraft:mending\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:5}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Emerald Breaker",
+                                    "color":"gold",
+                                    "bold":"true"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_pickaxe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:unbreaking\",lvl:4s},{id:\"minecraft:fortune\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:11}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Gray Miner",
+                                    "color":"gold",
+                                    "bold":"true"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_pickaxe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:efficiency\",lvl:5s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:6}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Nether Escavator",
+                                    "color":"gold",
+                                    "bold":"true"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_pickaxe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:unbreaking\",lvl:4s},{id:\"minecraft:mending\",lvl:2s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:17}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Sharp Pin",
+                                    "color":"gold",
+                                    "bold":"true"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_pickaxe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:fire_aspect\",lvl:4s},{id:\"minecraft:mending\",lvl:2s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:29}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Fire Aspect",
+                                    "color":"gold",
+                                    "bold":"true"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:7s},{id:\"minecraft:fire_aspect\",lvl:2s},{id:\"minecraft:mending\",lvl:2s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:35}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"iskall85's favourite",
+                                    "color":"gold",
+                                    "bold":"true"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_sword"
+                }
+            ]
+        }
+    ]
+}

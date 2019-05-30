@@ -1,0 +1,711 @@
+{
+    "pools":[
+        {
+            "rolls":1,
+            "entries":[
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:fortune\",lvl:3s},{id:\"minecraft:efficiency\",lvl:8s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:2}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Epic Pickaxe",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_pickaxe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:fortune\",lvl:5s},{id:\"minecraft:efficiency\",lvl:5s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:13}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Fancy Pick",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_pickaxe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:smite\",lvl:5s},{id:\"minecraft:efficiency\",lvl:5s},{id:\"minecraft:silk_touch\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:10}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Dark Magic",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_pickaxe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:efficiency\",lvl:4s},{id:\"minecraft:fortune\",lvl:5s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:8}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Lapis Power",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_pickaxe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:efficiency\",lvl:5s},{id:\"minecraft:silk_touch\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:12}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Future is here!",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_pickaxe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:efficiency\",lvl:5s},{id:\"minecraft:fortune\",lvl:5s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:6}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Poppy Pick",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_pickaxe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:smite\",lvl:5s},{id:\"minecraft:bane_of_arthropods\",lvl:5s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:2}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Sharp Enemy",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:knockback\",lvl:2s},{id:\"minecraft:sweeping\",lvl:5s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:5}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Old Revenge",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:8s},{id:\"minecraft:smite\",lvl:8s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:6}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Danger is comin'",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:fire_aspect\",lvl:5s},{id:\"minecraft:looting\",lvl:4s},{id:\"minecraft:sweeping\",lvl:4s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:8}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Glowin' Breath",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:smite\",lvl:8s},{id:\"minecraft:looting\",lvl:5s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:9}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Poppy Sword",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:smite\",lvl:8s},{id:\"minecraft:bane_of_arthropods\",lvl:8s},{id:\"minecraft:sweeping\",lvl:3s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:14}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Goblin Needle",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:8s},{id:\"minecraft:looting\",lvl:3s},{id:\"minecraft:sweeping\",lvl:3s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:19}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Pirate Weapon",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:knockback\",lvl:8s},{id:\"minecraft:sweeping\",lvl:3s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:21}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Ender Hype",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:8s},{id:\"minecraft:fire_aspect\",lvl:4s},{id:\"minecraft:looting\",lvl:5s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:25}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Diamond Rushback",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:smite\",lvl:8s},{id:\"minecraft:knockback\",lvl:5s},{id:\"minecraft:sweeping\",lvl:4s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:30}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Ghost Buster",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:fire_aspect\",lvl:2s},{id:\"minecraft:looting\",lvl:5s},{id:\"minecraft:sweeping\",lvl:4s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:36}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Epic Nessy",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:smite\",lvl:6s},{id:\"minecraft:fire_aspect\",lvl:2s},{id:\"minecraft:looting\",lvl:5s},{id:\"minecraft:sweeping\",lvl:4s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:39}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Epic Pain",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:5s},{id:\"minecraft:sweeping\",lvl:5s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:40}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Cyan Attack",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:fire_aspect\",lvl:4s},{id:\"minecraft:sweeping\",lvl:5s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:45}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Light Attack",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:8s},{id:\"minecraft:fire_aspect\",lvl:4s},{id:\"minecraft:looting\",lvl:5s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:54}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Fancy Sword",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{AttributeModifiers:[{AttributeName:\"generic.movementSpeed\",Name:\"generic.movementSpeed\",Amount:0.4,Operation:1,UUIDLeast:427397,UUIDMost:875179,Slot:\"offhand\"}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:1}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Fast Legs",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:carrot_on_a_stick"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{AttributeModifiers:[{AttributeName:\"generic.attackSpeed\",Name:\"generic.attackSpeed\",Amount:2,Operation:0,UUIDLeast:4642,UUIDMost:32486,Slot:\"offhand\"}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:6}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Fast Attack",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:carrot_on_a_stick"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{AttributeModifiers:[{AttributeName:\"generic.attackDamage\",Name:\"generic.attackDamage\",Amount:0.2,Operation:1,UUIDLeast:427397,UUIDMost:875179,Slot:\"offhand\"}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:10}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Tool Sharpener",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:carrot_on_a_stick"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{AttributeModifiers:[{AttributeName:\"generic.maxHealth\",Name:\"generic.maxHealth\",Amount:2,Operation:0,UUIDLeast:427397,UUIDMost:875179,Slot:\"offhand\"}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:5}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Health Additive",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:carrot_on_a_stick"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{AttributeModifiers:[{AttributeName:\"generic.armorToughness\",Name:\"generic.armorToughness\",Amount:5,Operation:0,UUIDLeast:427397,UUIDMost:875179,Slot:\"offhand\"}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:11}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Armor Toughner",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:carrot_on_a_stick"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{AttributeModifiers:[{AttributeName:\"generic.luck\",Name:\"generic.luck\",Amount:0.2,Operation:1,UUIDLeast:427397,UUIDMost:875179,Slot:\"offhand\"}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:13}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Luck Booster",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:carrot_on_a_stick"
+                }
+            ]
+        }
+    ]
+}
