@@ -559,10 +559,6 @@
                         },
                         {
                             "function":"set_nbt",
-                            "tag":"{Unbreakable:1b}"
-                        },
-                        {
-                            "function":"set_nbt",
                             "tag":"{CustomModelData:1}"
                         },
                         {
@@ -573,7 +569,7 @@
                             }
                         }
                     ],
-                    "name": "minecraft:carrot_on_a_stick"
+                    "name": "minecraft:clock"
                 },
                 {
                     "type": "minecraft:item",
@@ -582,10 +578,6 @@
                         {
                             "function":"set_nbt",
                             "tag":"{AttributeModifiers:[{AttributeName:\"generic.attackSpeed\",Name:\"generic.attackSpeed\",Amount:2,Operation:0,UUIDLeast:4642,UUIDMost:32486,Slot:\"offhand\"}]}"
-                        },
-                        {
-                            "function":"set_nbt",
-                            "tag":"{Unbreakable:1b}"
                         },
                         {
                             "function":"set_nbt",
@@ -599,7 +591,7 @@
                             }
                         }
                     ],
-                    "name": "minecraft:carrot_on_a_stick"
+                    "name": "minecraft:clock"
                 },
                 {
                     "type": "minecraft:item",
@@ -608,10 +600,6 @@
                         {
                             "function":"set_nbt",
                             "tag":"{AttributeModifiers:[{AttributeName:\"generic.attackDamage\",Name:\"generic.attackDamage\",Amount:0.2,Operation:1,UUIDLeast:427397,UUIDMost:875179,Slot:\"offhand\"}]}"
-                        },
-                        {
-                            "function":"set_nbt",
-                            "tag":"{Unbreakable:1b}"
                         },
                         {
                             "function":"set_nbt",
@@ -625,7 +613,7 @@
                             }
                         }
                     ],
-                    "name": "minecraft:carrot_on_a_stick"
+                    "name": "minecraft:clock"
                 },
                 {
                     "type": "minecraft:item",
@@ -634,10 +622,6 @@
                         {
                             "function":"set_nbt",
                             "tag":"{AttributeModifiers:[{AttributeName:\"generic.maxHealth\",Name:\"generic.maxHealth\",Amount:2,Operation:0,UUIDLeast:427397,UUIDMost:875179,Slot:\"offhand\"}]}"
-                        },
-                        {
-                            "function":"set_nbt",
-                            "tag":"{Unbreakable:1b}"
                         },
                         {
                             "function":"set_nbt",
@@ -651,7 +635,7 @@
                             }
                         }
                     ],
-                    "name": "minecraft:carrot_on_a_stick"
+                    "name": "minecraft:clock"
                 },
                 {
                     "type": "minecraft:item",
@@ -660,10 +644,6 @@
                         {
                             "function":"set_nbt",
                             "tag":"{AttributeModifiers:[{AttributeName:\"generic.armorToughness\",Name:\"generic.armorToughness\",Amount:5,Operation:0,UUIDLeast:427397,UUIDMost:875179,Slot:\"offhand\"}]}"
-                        },
-                        {
-                            "function":"set_nbt",
-                            "tag":"{Unbreakable:1b}"
                         },
                         {
                             "function":"set_nbt",
@@ -677,7 +657,7 @@
                             }
                         }
                     ],
-                    "name": "minecraft:carrot_on_a_stick"
+                    "name": "minecraft:clock"
                 },
                 {
                     "type": "minecraft:item",
@@ -686,10 +666,6 @@
                         {
                             "function":"set_nbt",
                             "tag":"{AttributeModifiers:[{AttributeName:\"generic.luck\",Name:\"generic.luck\",Amount:0.2,Operation:1,UUIDLeast:427397,UUIDMost:875179,Slot:\"offhand\"}]}"
-                        },
-                        {
-                            "function":"set_nbt",
-                            "tag":"{Unbreakable:1b}"
                         },
                         {
                             "function":"set_nbt",
@@ -703,7 +679,189 @@
                             }
                         }
                     ],
-                    "name": "minecraft:carrot_on_a_stick"
+                    "name": "minecraft:clock"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:power\",lvl:5s},{id:\"minecraft:flame\",lvl:4s},{id:\"minecraft:infinity\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:2}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Far Lands",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:bow"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:power\",lvl:7s},{id:\"minecraft:flame\",lvl:2s},{id:\"minecraft:infinity\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:4}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Arrow Cannon",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:bow"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:power\",lvl:3s},{id:\"minecraft:punch\",lvl:2s},{id:\"minecraft:flame\",lvl:10s},{id:\"minecraft:infinity\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:6}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Epic Fire",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:bow"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:power\",lvl:9s},{id:\"minecraft:infinity\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:7}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Pure Power",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:bow"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:power\",lvl:6s},{id:\"minecraft:flame\",lvl:3s},{id:\"minecraft:infinity\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:9}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Blue Shooter",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:bow"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:power\",lvl:7s},{id:\"minecraft:punch\",lvl:4s},{id:\"minecraft:infinity\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:10}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Power Punch",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:bow"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:power\",lvl:8s},{id:\"minecraft:flame\",lvl:1s},{id:\"minecraft:infinity\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:11}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"No Idea",
+                                "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:bow"
                 }
             ]
         }

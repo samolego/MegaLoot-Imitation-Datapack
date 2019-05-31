@@ -23,8 +23,7 @@
                             "function":"set_name",
                                 "name":{
                                     "text":"Fast Breaker",
-                                    "color":"gold",
-                                    "bold":"true"
+                                    "color":"gold"
                             }
                         }
                     ],
@@ -50,62 +49,7 @@
                             "function":"set_name",
                                 "name":{
                                     "text":"Stone Destroyer",
-                                    "color":"gold",
-                                    "bold":"true"
-                            }
-                        }
-                    ],
-                    "name": "minecraft:iron_pickaxe"
-                },
-                {
-                    "type": "minecraft:item",
-                    "weight":1,
-                    "functions": [
-                        {
-                            "function":"set_nbt",
-                            "tag":"{Enchantments:[{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:fortune\",lvl:3s},{id:\"minecraft:mending\",lvl:2s}]}"
-                        },
-                        {
-                            "function":"set_nbt",
-                            "tag":"{Glowing:1b,PickupDelay:60}"
-                        },
-                        {
-                            "function":"set_nbt",
-                            "tag":"{CustomModelData:16}"
-                        },
-                        {
-                            "function":"set_name",
-                                "name":{
-                                    "text":"Stone Destroyer",
-                                    "color":"gold",
-                                    "bold":"true"
-                            }
-                        }
-                    ],
-                    "name": "minecraft:iron_pickaxe"
-                },
-                {
-                    "type": "minecraft:item",
-                    "weight":1,
-                    "functions": [
-                        {
-                            "function":"set_nbt",
-                            "tag":"{Enchantments:[{id:\"minecraft:silk_touch\",lvl:1s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
-                        },
-                        {
-                            "function":"set_nbt",
-                            "tag":"{Glowing:1b,PickupDelay:60}"
-                        },
-                        {
-                            "function":"set_nbt",
-                            "tag":"{CustomModelData:14}"
-                        },
-                        {
-                            "function":"set_name",
-                                "name":{
-                                    "text":"Stone Destroyer",
-                                    "color":"gold",
-                                    "bold":"true"
+                                    "color":"gold"
                             }
                         }
                     ],
@@ -131,8 +75,7 @@
                             "function":"set_name",
                                 "name":{
                                     "text":"Emerald Breaker",
-                                    "color":"gold",
-                                    "bold":"true"
+                                    "color":"gold"
                             }
                         }
                     ],
@@ -158,8 +101,7 @@
                             "function":"set_name",
                                 "name":{
                                     "text":"Gray Miner",
-                                    "color":"gold",
-                                    "bold":"true"
+                                    "color":"gold"
                             }
                         }
                     ],
@@ -185,8 +127,7 @@
                             "function":"set_name",
                                 "name":{
                                     "text":"Nether Escavator",
-                                    "color":"gold",
-                                    "bold":"true"
+                                    "color":"gold"
                             }
                         }
                     ],
@@ -212,12 +153,11 @@
                             "function":"set_name",
                                 "name":{
                                     "text":"Sharp Pin",
-                                    "color":"gold",
-                                    "bold":"true"
+                                    "color":"gold"
                             }
                         }
                     ],
-                    "name": "minecraft:iron_pickaxe"
+                    "name": "minecraft:iron_sword"
                 },
                 {
                     "type": "minecraft:item",
@@ -239,8 +179,7 @@
                             "function":"set_name",
                                 "name":{
                                     "text":"Fire Aspect",
-                                    "color":"gold",
-                                    "bold":"true"
+                                    "color":"gold"
                             }
                         }
                     ],
@@ -266,12 +205,347 @@
                             "function":"set_name",
                                 "name":{
                                     "text":"iskall85's favourite",
-                                    "color":"gold",
-                                    "bold":"true"
+                                    "color":"gold"
                             }
                         }
                     ],
                     "name": "minecraft:iron_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:7s},{id:\"minecraft:looting\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:46}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Light Blue Lightsaber",
+                                "color":"gold"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:7s},{id:\"minecraft:fire_aspect\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:47}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Light Green Lightsaber",
+                                "color":"gold"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:7s},{id:\"minecraft:sweeping\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:48}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Red Lightsaber",
+                                "color":"gold"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:7s},{id:\"minecraft:knockback\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:49}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Yellow Lightsaber",
+                                "color":"gold"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:unbreaking\",lvl:4s},{id:\"minecraft:power\",lvl:4s},{id:\"minecraft:infinity\",lvl:1s},{id:\"minecraft:mending\",lvl:2s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:5}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"No one's perfect",
+                                "color":"gold"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:bow"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:power\",lvl:5s},{id:\"minecraft:infinity\",lvl:1s},{id:\"minecraft:mending\",lvl:2s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:8}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Green Path",
+                                "color":"gold"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:bow"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:power\",lvl:3s},{id:\"minecraft:flame\",lvl:3s},{id:\"minecraft:infinity\",lvl:1s},{id:\"minecraft:mending\",lvl:3s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:12}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Level 3",
+                                "color":"gold"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:bow"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:efficiency\",lvl:5s},{id:\"minecraft:silk_touch\",lvl:1s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:10}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Custom Axe",
+                                    "color":"gold"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:smite\",lvl:7s},{id:\"minecraft:silk_touch\",lvl:1s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:11}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Smitaxe",
+                                    "color":"gold"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:7s},{id:\"minecraft:silk_touch\",lvl:1s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:12}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Red Battleaxe",
+                                    "color":"gold"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:efficiency\",lvl:6s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:13}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Fancy Axe",
+                                    "color":"gold"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:2s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:14}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Johny's Chainsaw",
+                                    "color":"gold"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:smite\",lvl:6s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:2s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:15}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Blue Battleaxe",
+                                    "color":"gold"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:efficiency\",lvl:7s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:2s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:16}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Axe of Iron",
+                                    "color":"gold"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_axe"
                 }
             ]
         }

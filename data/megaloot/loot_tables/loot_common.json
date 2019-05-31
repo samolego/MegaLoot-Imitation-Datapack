@@ -7,56 +7,199 @@
                     "type": "minecraft:item",
                     "weight":1,
                     "functions": [
-                    {
-                        "function":"set_nbt",
-                        "tag":"{display:{Name:\"{\\\"text\\\":\\\"Common Weapon Case\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":true}\",Lore:[\"{\\\"text\\\":\\\"Right click to open.\\\",\\\"color\\\":\\\"dark_aqua\\\",\\\"italic\\\":true}\"]},CustomModelData:1,Enchantments:[{id:\"minecraft:vanishing_curse\",lvl:1s}],EntityTag:{id:\"minecraft:item\",Glowing:1b,PickupDelay:60,Item:{id:\"minecraft:iron_pickaxe\",Count:1b,tag:{display:{Name:\"{\\\"text\\\":\\\"Sharp Tool\\\",\\\"color\\\":\\\"green\\\"}\"},Unbreakable:0b,CustomModelData:1,Enchantments:[{id:\"minecraft:efficiency\",lvl:4s},{id:\"minecraft:silk_touch\",lvl:1s}]}}}}"
-                    }
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:power\",lvl:5s},{id:\"minecraft:flame\",lvl:2s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:1}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Good Start",
+                                "color":"dark_gray"
+                            }
+                        }
                     ],
-                    "name": "minecraft:vex_spawn_egg"
+                    "name": "minecraft:bow"
                 },
                 {
                     "type": "minecraft:item",
                     "weight":1,
                     "functions": [
-                    {
-                        "function":"set_nbt",
-                        "tag":"{display:{Name:\"{\\\"text\\\":\\\"Common Weapon Case\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":true}\",Lore:[\"{\\\"text\\\":\\\"Right click to open.\\\",\\\"color\\\":\\\"dark_aqua\\\",\\\"italic\\\":true}\"]},CustomModelData:1,Enchantments:[{id:\"minecraft:vanishing_curse\",lvl:1s}],EntityTag:{id:\"minecraft:item\",Glowing:1b,PickupDelay:60,Item:{id:\"minecraft:iron_pickaxe\",Count:1b,tag:{display:{Name:\"{\\\"text\\\":\\\"Rocket Science\\\",\\\"color\\\":\\\"green\\\"}\"},CustomModelData:4,Enchantments:[{id:\"minecraft:efficiency\",lvl:4s},{id:\"minecraft:fortune\",lvl:3s}]}}}}"
-                    }
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:power\",lvl:5s},{id:\"minecraft:infinity\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:3}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Level 3",
+                                "color":"dark_gray"
+                            }
+                        }
                     ],
-                    "name": "minecraft:vex_spawn_egg"
+                    "name": "minecraft:bow"
                 },
                 {
                     "type": "minecraft:item",
                     "weight":1,
                     "functions": [
-                    {
-                        "function":"set_nbt",
-                        "tag":"{display:{Name:\"{\\\"text\\\":\\\"Common Weapon Case\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":true}\",Lore:[\"{\\\"text\\\":\\\"Right click to open.\\\",\\\"color\\\":\\\"dark_aqua\\\",\\\"italic\\\":true}\"]},CustomModelData:1,Enchantments:[{id:\"minecraft:vanishing_curse\",lvl:1s}],EntityTag:{id:\"minecraft:item\",Glowing:1b,PickupDelay:60,Item:{id:\"minecraft:iron_pickaxe\",Count:1b,tag:{display:{Name:\"{\\\"text\\\":\\\"Sweet Present\\\",\\\"color\\\":\\\"green\\\"}\"},CustomModelData:7,Enchantments:[{id:\"minecraft:efficiency\",lvl:4s},{id:\"minecraft:unbreaking\",lvl:3s}]}}}}"
-                    }
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:sweeping\",lvl:3s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:18}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Nice One",
+                                "color":"dark_gray"
+                            }
+                        }
                     ],
-                    "name": "minecraft:vex_spawn_egg"
+                    "name": "minecraft:iron_sword"
                 },
                 {
                     "type": "minecraft:item",
                     "weight":1,
                     "functions": [
-                    {
-                        "function":"set_nbt",
-                        "tag":""
-                    }
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:knockback\",lvl:3s},{id:\"minecraft:looting\",lvl:3s},{id:\"minecraft:sweeping\",lvl:3s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:24}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Level 3",
+                                "color":"dark_gray"
+                            }
+                        }
                     ],
-                    "name": "minecraft:vex_spawn_egg"
+                    "name": "minecraft:iron_sword"
                 },
                 {
                     "type": "minecraft:item",
                     "weight":1,
                     "functions": [
-                    {
-                        "function":"set_nbt",
-                        "tag":""
-                    }
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:smite\",lvl:5s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:31}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Pretty OK",
+                                "color":"dark_gray"
+                            }
+                        }
                     ],
-                    "name": "minecraft:vex_spawn_egg"
+                    "name": "minecraft:iron_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:fire_aspect\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:41}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Hot Stuff",
+                                "color":"dark_gray"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:looting\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:37}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Sharp Thing",
+                                "color":"dark_gray"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:knockback\",lvl:5s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:43}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Level 5",
+                                "color":"dark_gray"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:bane_of_arthropods\",lvl:7s},{id:\"minecraft:unbreaking\",lvl:3s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:44}"
+                        },
+                        {
+                            "function":"set_name",
+                            "name":{
+                                "text":"Emerald Style",
+                                "color":"dark_gray"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_sword"
                 }
             ]
         }
