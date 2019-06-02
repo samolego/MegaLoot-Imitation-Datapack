@@ -862,6 +862,370 @@
                         }
                     ],
                     "name": "minecraft:bow"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:7s},{id:\"minecraft:efficiency\",lvl:7s},{id:\"minecraft:silk_touch\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:1}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Golden Battleaxe",
+                                    "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:smite\",lvl:4s},{id:\"minecraft:efficiency\",lvl:10s},{id:\"minecraft:silk_touch\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:2}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Goblin Battleaxe",
+                                    "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:fire_aspect\",lvl:4s},{id:\"minecraft:efficiency\",lvl:5s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:3}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Wood Burner",
+                                    "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:smite\",lvl:5s},{id:\"minecraft:efficiency\",lvl:5s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:4}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Mirraxe",
+                                    "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:efficiency\",lvl:8s},{id:\"minecraft:fortune\",lvl:5s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:5}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Rubby Axe",
+                                    "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:efficiency\",lvl:6s},{id:\"minecraft:silk_touch\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:6}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Epick Axe",
+                                    "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:looting\",lvl:5s},{id:\"minecraft:sweeping\",lvl:3s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:7}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"King's Attack",
+                                    "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:efficiency\",lvl:10s},{id:\"minecraft:fortune\",lvl:3s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:8}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Futurax",
+                                    "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:smite\",lvl:6s},{id:\"minecraft:efficiency\",lvl:7s},{id:\"minecraft:silk_touch\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:9}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Green Pace",
+                                    "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:efficiency\",lvl:5s},{id:\"minecraft:fortune\",lvl:5s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:15}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Greenifier",
+                                    "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_shovel"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:efficiency\",lvl:5s},{id:\"minecraft:silk_touch\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:14}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Motorised Shovel",
+                                    "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_shovel"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:efficiency\",lvl:5s},{id:\"minecraft:fortune\",lvl:5s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:13}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Fancy Shovel",
+                                    "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_shovel"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:efficiency\",lvl:5s},{id:\"minecraft:silk_touch\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:12}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Mud Destroyer",
+                                    "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_shovel"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:efficiency\",lvl:5s},{id:\"minecraft:silk_touch\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:11}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Unbreakable:1b}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Diamond Spoon",
+                                    "color":"light_purple"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:diamond_shovel"
                 }
             ]
         }

@@ -200,6 +200,136 @@
                         }
                     ],
                     "name": "minecraft:iron_sword"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:4s},{id:\"minecraft:efficiency\",lvl:3s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:17}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Emerald Axe",
+                                    "color":"dark_gray"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:unbreaking\",lvl:3s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:18}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Iron Battleaxe",
+                                    "color":"dark_gray"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:efficiency\",lvl:2s},{id:\"minecraft:silk_touch\",lvl:1s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:19}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"What?",
+                                    "color":"dark_gray"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:3s},{id:\"minecraft:efficiency\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:20}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Ender Axe",
+                                    "color":"dark_gray"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_axe"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight":1,
+                    "functions": [
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Enchantments:[{id:\"minecraft:efficiency\",lvl:6s},{id:\"minecraft:mending\",lvl:1s}]}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{Glowing:1b,PickupDelay:60}"
+                        },
+                        {
+                            "function":"set_nbt",
+                            "tag":"{CustomModelData:21}"
+                        },
+                        {
+                            "function":"set_name",
+                                "name":{
+                                    "text":"Algaex",
+                                    "color":"dark_gray"
+                            }
+                        }
+                    ],
+                    "name": "minecraft:iron_axe"
                 }
             ]
         }
