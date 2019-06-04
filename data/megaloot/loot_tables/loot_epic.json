@@ -621,7 +621,7 @@
                     "functions": [
                         {
                             "function":"set_nbt",
-                            "tag":"{AttributeModifiers:[{AttributeName:\"generic.maxHealth\",Name:\"generic.maxHealth\",Amount:2,Operation:0,UUIDLeast:427397,UUIDMost:875179,Slot:\"offhand\"}]}"
+                            "tag":"{AttributeModifiers:[{AttributeName:\"generic.maxHealth\",Name:\"generic.maxHealth\",Amount:4,Operation:0,UUIDLeast:427397,UUIDMost:875179,Slot:\"offhand\"}]}"
                         },
                         {
                             "function":"set_nbt",
@@ -665,7 +665,7 @@
                     "functions": [
                         {
                             "function":"set_nbt",
-                            "tag":"{AttributeModifiers:[{AttributeName:\"generic.luck\",Name:\"generic.luck\",Amount:0.2,Operation:1,UUIDLeast:427397,UUIDMost:875179,Slot:\"offhand\"}]}"
+                            "tag":"{AttributeModifiers:[{AttributeName:\"generic.luck\",Name:\"generic.luck\",Amount:0.4,Operation:1,UUIDLeast:427397,UUIDMost:875179,Slot:\"offhand\"}]}"
                         },
                         {
                             "function":"set_nbt",
