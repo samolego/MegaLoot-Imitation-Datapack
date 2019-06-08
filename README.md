@@ -5,7 +5,7 @@ This datapack for Minecraft Java Edition tries to imitate the Megaloot mod, that
 (link to his awesome project: https://github.com/Zairus/MegaLoot)
 I'm not affiliated with the Megaloot mod in any way. (!)
 
- ## Note: this is still WIP
+ ## Note:
 
 It is my first datapack, so there may be better ways to do the stuff that I'm doing :-P.
 
